@@ -1,0 +1,15 @@
+C:\C_sharp_basic\numbersincsharp\bin\Debug\net8.0\numbersincsharp.exe
+C:\C_sharp_basic\numbersincsharp\bin\Debug\net8.0\numbersincsharp.deps.json
+C:\C_sharp_basic\numbersincsharp\bin\Debug\net8.0\numbersincsharp.runtimeconfig.json
+C:\C_sharp_basic\numbersincsharp\bin\Debug\net8.0\numbersincsharp.dll
+C:\C_sharp_basic\numbersincsharp\bin\Debug\net8.0\numbersincsharp.pdb
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\numbersincsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\numbersincsharp.AssemblyInfoInputs.cache
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\numbersincsharp.AssemblyInfo.cs
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\numbersincsharp.csproj.CoreCompileInputs.cache
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\numbersincsharp.sourcelink.json
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\numbersincsharp.dll
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\refint\numbersincsharp.dll
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\numbersincsharp.pdb
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\numbersincsharp.genruntimeconfig.cache
+C:\C_sharp_basic\numbersincsharp\obj\Debug\net8.0\ref\numbersincsharp.dll
