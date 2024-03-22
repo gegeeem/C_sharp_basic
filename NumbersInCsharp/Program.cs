@@ -5,4 +5,3 @@ int b = 2100000000;
 double c = 5.2;
 
 Console.WriteLine(a+b);// warning result is: -94967296 non-sence
-
