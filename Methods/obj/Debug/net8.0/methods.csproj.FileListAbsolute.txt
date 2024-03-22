@@ -1,0 +1,15 @@
+C:\C_sharp_basic\methods\bin\Debug\net8.0\methods.exe
+C:\C_sharp_basic\methods\bin\Debug\net8.0\methods.deps.json
+C:\C_sharp_basic\methods\bin\Debug\net8.0\methods.runtimeconfig.json
+C:\C_sharp_basic\methods\bin\Debug\net8.0\methods.dll
+C:\C_sharp_basic\methods\bin\Debug\net8.0\methods.pdb
+C:\C_sharp_basic\methods\obj\Debug\net8.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp_basic\methods\obj\Debug\net8.0\methods.AssemblyInfoInputs.cache
+C:\C_sharp_basic\methods\obj\Debug\net8.0\methods.AssemblyInfo.cs
+C:\C_sharp_basic\methods\obj\Debug\net8.0\methods.csproj.CoreCompileInputs.cache
+C:\C_sharp_basic\methods\obj\Debug\net8.0\methods.sourcelink.json
+C:\C_sharp_basic\methods\obj\Debug\net8.0\methods.dll
+C:\C_sharp_basic\methods\obj\Debug\net8.0\refint\methods.dll
+C:\C_sharp_basic\methods\obj\Debug\net8.0\methods.pdb
+C:\C_sharp_basic\methods\obj\Debug\net8.0\methods.genruntimeconfig.cache
+C:\C_sharp_basic\methods\obj\Debug\net8.0\ref\methods.dll
