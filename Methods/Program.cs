@@ -24,5 +24,8 @@ void WorkWithIntegers()
     int d = int.Min(a,b);
     Console.WriteLine("int d = int.Min(a,b): "+d);
     int what = max + 3;
+   /* int g = 10000000000; Cannot implicitly convert type 'long' to 'int'.*/
+   /*long g = 10000000000000000000; Cannot implicitly convert type 'ulong' to 'long'*/
+   ulong g = 10000000000000000000; /*it s fine*/
 Console.WriteLine($"An example of overflow: {what}");
 }
