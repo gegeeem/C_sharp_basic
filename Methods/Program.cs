@@ -27,5 +27,6 @@ void WorkWithIntegers()
    /* int g = 10000000000; Cannot implicitly convert type 'long' to 'int'.*/
    /*long g = 10000000000000000000; Cannot implicitly convert type 'ulong' to 'long'*/
    ulong g = 10000000000000000000; /*it s fine*/
+   //int n = checked(max+ 3);
 Console.WriteLine($"An example of overflow: {what}");
 }
