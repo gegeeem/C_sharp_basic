@@ -1,0 +1,15 @@
+C:\C_sharp_basic\branches-tutorial\bin\Debug\net8.0\BranchesAndLoops.exe
+C:\C_sharp_basic\branches-tutorial\bin\Debug\net8.0\BranchesAndLoops.deps.json
+C:\C_sharp_basic\branches-tutorial\bin\Debug\net8.0\BranchesAndLoops.runtimeconfig.json
+C:\C_sharp_basic\branches-tutorial\bin\Debug\net8.0\BranchesAndLoops.dll
+C:\C_sharp_basic\branches-tutorial\bin\Debug\net8.0\BranchesAndLoops.pdb
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfo.cs
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\BranchesAndLoops.sourcelink.json
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\BranchesAndLoops.dll
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\refint\BranchesAndLoops.dll
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\BranchesAndLoops.pdb
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\BranchesAndLoops.genruntimeconfig.cache
+C:\C_sharp_basic\branches-tutorial\obj\Debug\net8.0\ref\BranchesAndLoops.dll

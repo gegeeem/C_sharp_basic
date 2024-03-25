@@ -24,9 +24,17 @@ void WorkWithIntegers()
     int d = int.Min(a,b);
     Console.WriteLine("int d = int.Min(a,b): "+d);
     int what = max + 3;
+    Console.WriteLine($"An example of overflow: {what}");
+
+
+    long f = 100_0000_000_000_000_000; // 
    /* int g = 10000000000; Cannot implicitly convert type 'long' to 'int'.*/
    /*long g = 10000000000000000000; Cannot implicitly convert type 'ulong' to 'long'*/
-   ulong g = 10000000000000000000; /*it s fine*/
+   ulong g = 10_000_000_000_000_000_000; /*it s fine*/
    //int n = checked(max+ 3);
-Console.WriteLine($"An example of overflow: {what}");
+   float a1  = 45.0F;
+   double a2 = 4.5;
+   
+   Console.WriteLine("long f = "+f+", ulong g = "+g+", float a1 = "+a1+" type: "+ a2.GetType());
+   Console.WriteLine(l);
 }
