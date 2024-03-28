@@ -1,0 +1,15 @@
+C:\C_sharp_basic\Lists\bin\Debug\net8.0\Lists.exe
+C:\C_sharp_basic\Lists\bin\Debug\net8.0\Lists.deps.json
+C:\C_sharp_basic\Lists\bin\Debug\net8.0\Lists.runtimeconfig.json
+C:\C_sharp_basic\Lists\bin\Debug\net8.0\Lists.dll
+C:\C_sharp_basic\Lists\bin\Debug\net8.0\Lists.pdb
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\Lists.sourcelink.json
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\Lists.dll
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\refint\Lists.dll
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\Lists.pdb
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+C:\C_sharp_basic\Lists\obj\Debug\net8.0\ref\Lists.dll
