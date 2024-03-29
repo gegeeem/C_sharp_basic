@@ -1,6 +1,8 @@
-﻿using System.Reflection.Metadata;
+﻿using System.Drawing;
+using System.Reflection.Metadata;
 
 List<string> surnames = ["First","Second","Eighth", "Ninth"];
+List<string> pointSurnames = surnames;
 surnames.Add("Thrid");
 surnames.Add("Fourth");
 surnames.Remove("Third"); // not works, probably  there is no "Third" in the List yet
@@ -14,6 +16,11 @@ foreach(string surname in surnames){
     Console.WriteLine(surname);
 
 }
+foreach(string point in pointSurnames){
+    Console.WriteLine("pointSurnames: "+point);
+
+}
+
 
 Console.WriteLine("Number of lements in Lists surnames is: "+surnames.Count);
 var names1 =new List<string> {};// another way of declaration
