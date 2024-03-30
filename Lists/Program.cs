@@ -43,5 +43,7 @@ foreach(String name in pointNames){
 }
 var compareToStr = names[2].CompareTo("Anna");
 Console.WriteLine("compareTo: " +compareToStr);
+Console.WriteLine($"Lists.IndexOf(Ninth): {surnames.IndexOf("Ninth")}"); // there is no  IndexOf()method for array of string
+
 
 
