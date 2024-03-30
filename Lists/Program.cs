@@ -1,4 +1,5 @@
 ﻿using System.Drawing;
+using System.Globalization;
 using System.Reflection.Metadata;
 
 List<string> surnames = ["First","Second","Eighth", "Ninth"];
@@ -28,7 +29,7 @@ var names1 =new List<string> {};// another way of declaration
 Console.WriteLine("The first in list is "+surnames[0]);
 Console.WriteLine("last is: "+surnames[^1]);
 
-var names = new string[]{"Anna","Felipe"};
+var names = new string[]{"Anna","Felipe","Amelia"};
 Console.WriteLine("string.Contains "+names.Contains("Em"));
 var pointNames = names;// same point to names
 names = [..names, "Maria"];// diff point, new arra is generated
@@ -40,5 +41,7 @@ foreach(String name in pointNames){
     Console.WriteLine("point names: "+name);
 
 }
+var compareToStr = names[2].CompareTo("Anna");
+Console.WriteLine("compareTo: " +compareToStr);
 
 
