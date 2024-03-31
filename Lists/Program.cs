@@ -44,6 +44,17 @@ foreach(String name in pointNames){
 var compareToStr = names[2].CompareTo("Anna");
 Console.WriteLine("compareTo: " +compareToStr);
 Console.WriteLine($"Lists.IndexOf(Ninth): {surnames.IndexOf("Ninth")}"); // there is no  IndexOf()method for array of string
+// Specify data source
+List<int> randomNums = [12, 54, 78, 2, 89, 103, 73,29];
 
+//Define query expression
+IEnumerable<int> scoreQuery = 
+from randomNum in randomNums
+where randomNum > 50 
+select randomNum;
+//Execute query
 
-
+foreach(int score in scoreQuery){
+     Console.WriteLine($"{randomNums.IndexOf(score)}: {score}");
+   
+}
