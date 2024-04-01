@@ -71,3 +71,14 @@ select $"Score:  {randomNum}";
 foreach(string score2 in scoreQuery2){
     Console.WriteLine($"{score2}");
 }
+
+var countQuery3 = scoreQuery2.Count();
+Console.WriteLine($"{countQuery3}");
+var countScoreQuery = (
+    from randomNum in randomNums
+where randomNum > 50 
+orderby randomNum descending
+select randomNum
+).Count();
+
+Console.WriteLine($"Number of result under 50 is: {countScoreQuery}");
