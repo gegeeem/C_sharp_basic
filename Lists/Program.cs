@@ -52,9 +52,22 @@ IEnumerable<int> scoreQuery =
 from randomNum in randomNums
 where randomNum > 50 
 select randomNum;
+
+
+
 //Execute query
 
 foreach(int score in scoreQuery){
      Console.WriteLine($"{randomNums.IndexOf(score)}: {score}");
    
+}
+
+IEnumerable<string> scoreQuery2 = 
+from randomNum in randomNums
+where randomNum > 50 
+orderby randomNum descending
+select $"Score:  {randomNum}";
+
+foreach(string score2 in scoreQuery2){
+    Console.WriteLine($"{score2}");
 }
