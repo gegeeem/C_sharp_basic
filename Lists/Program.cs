@@ -82,3 +82,22 @@ select randomNum
 ).Count();
 
 Console.WriteLine($"Number of result under 50 is: {countScoreQuery}");
+
+// List<T> CopyAtMost<T>(List<T> input, int maxElements)
+// {
+// int actualCount = Math.Min(input.Count, maxElements);
+// List<T> ret = new List<T>(actualCount);
+// for (int i = 0; i < actualCount; i++)
+// {
+// ret.Add(input[i]);
+// }
+// return ret;
+// }
+
+// List<int> numbers = [5, 10, 20];
+// List<int> firstTwo = CopyAtMost<int>(numbers, 2);
+// Console.WriteLine("njah: "+firstTwo.Count);
+
+// double mmm;
+// mmm = Console.Read();
+// Console.WriteLine($"Your input:   {mmm}");
