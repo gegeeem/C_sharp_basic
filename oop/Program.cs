@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Dynamic;
+using System.Security.Cryptography.X509Certificates;
 
 namespace MyNamespaces
 {
@@ -32,13 +34,16 @@ namespace MyNamespaces
             maxSpeed = _maxSpeed;
 
         }
+
+       
+
        
 
         
     }
 public class MyApp{
     public static void Main(){
-        Person me = new Person("Emir", "Gegic", new DateOnly(1990, 9, 3) );// we can set, but not access dateOfB like prop. Only access by method getDateOfB
+        Person me = new Person("Sam", "Shark", new DateOnly(1999, 1, 3) );// we can set, but not access dateOfB like prop. Only access by method getDateOfB
         Console.WriteLine($"Name: {me.name}, Surname: {me.surname}, Date of birthday: {me.getDateOfB()}");
 
         Car peugeot = new Car();
