@@ -29,13 +29,19 @@ namespace MyNamespaces
     class Car1 {
         public string model;
         public int maxSpeed;
+        string uniqueNumb = ""; // private
         public Car1(string _model, int _maxSpeed){
             model = _model;
             maxSpeed = _maxSpeed;
 
         }
 
-       
+       public string UniqueNumb{
+
+        get {return uniqueNumb;} //get method
+        set{uniqueNumb = value;} //set method
+
+       }
 
        
 
@@ -53,7 +59,8 @@ public class MyApp{
 
         // creating object with constructor
         Car1 automobile = new Car1("Toyota", 250);
-        Console.WriteLine($"Car model {automobile.model} has {automobile.maxSpeed} max speed");
+        automobile.UniqueNumb = "NY-255-A";
+        Console.WriteLine($"Car model {automobile.model} has {automobile.maxSpeed} max speed, uniqueNum is {automobile.UniqueNumb}");
     }
 
 }
